@@ -20,3 +20,8 @@ L'utilisateur peut cliquer sur une pizza pour afficher les détails complets (im
 - Custom Adapter
 - Architecture DAO / Service
 
+### 📋 Liste des pizzas
+<img width="446" height="934" alt="1" src="https://github.com/user-attachments/assets/e180d81f-460f-490e-8681-0bd9f53fd235" />
+
+### 🍕 Détail d'une pizza
+<img width="477" height="942" alt="2" src="https://github.com/user-attachments/assets/2c8ea790-a96f-4762-8610-d9555d6f979d" />
